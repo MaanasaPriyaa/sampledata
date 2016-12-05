@@ -1,1 +1,31 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[106.916862,-6.163701]},"properties":{"pkey":9300,"created_at":"2016-11-30T07:44:45","source":"qlue","status":"confirmed","url":null,"image_url":"https://lh3.googleusercontent.com/3GA9IguCpo17wEpceiZm0vE8Th2mUQDZocVlIDByXachRIcUSa_atIreyTBi38uGcAV2wfO4uYM2-QgNT2379y1axxL-=s480-c","title":"Genangan air ","text":"#cuacaekstrim #drainaseburuk"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[104.8252532,-3.4112217]},"properties":{"pkey":9301,"created_at":"2016-11-30T07:41:51","source":"detik","status":"confirmed","url":"https://pasangmata.detik.com/contribution/247600","image_url":"https://images.detik.com/community/pasma/2016/11/30/14804665111224924365.jpg","title":"Jembatan Desa Gunung Batu Terputus Imbas Terjangan Air","text":"Jembatan desa Gunung Batu kecamatan Cempaka kabupaten Ogan Komering Ulu Timur di terjang arus air deras."}},{"type":"Feature","geometry":{"type":"Point","coordinates":[106.871155,-6.201648]},"properties":{"pkey":9299,"created_at":"2016-11-30T07:08:51","source":"qlue","status":"confirmed","url":null,"image_url":"https://lh3.googleusercontent.com/dQy1huNhjzWLXcUDTEKlGOrMu9hxVqX4yW-U61D-IFW12-xoDZekpxYdx_zYdFE2St2w1DX7B7VzjiaPROwI5AHUWBKH=s480-c","title":"Saluran Air ","text":"Terjadi sumbatan saluran air di wilayah Jl. Asem Gede Utara Gang 9. Air tidak mengalir dengan sempurna."}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "pkey": "1",
+                "created_at": "2016-12-06T07:26:53.617Z",
+                "source": "testing",
+                "status": "confirmed",
+                "url": "no_url",
+                "image_url": "no_url",
+                "disaster_type": "flood",
+                "report_data": null,
+                "tags": {
+                    "instance_region_code": "jbd",
+                    "local_area_id": "800"
+                },
+                "title": "no_title",
+                "text": "test report"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.816667,
+                    -6.2
+                ]
+            }
+        }
+    ]
+}
